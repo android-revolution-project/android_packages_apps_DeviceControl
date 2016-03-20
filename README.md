@@ -1,1 +1,2 @@
-# android_packages_apps_DeviceControl
+DeviceControl apk
+system/priv-app/DeviceControl
